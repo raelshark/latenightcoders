@@ -1,6 +1,6 @@
 # latenightcoders
 
-Code for the 757 Late Night Coders Meetup in Virginia Beach, VA.
+Code for the website for the 757 Late Night Coders Meetup in Virginia Beach, VA.
 
 Currently hosted at:
 
